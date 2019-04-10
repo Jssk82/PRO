@@ -1,5 +1,12 @@
 package programacomposicioncono;
 
+/**
+ * Clase que muestra los atributos de un cono con un radio aleatorio además de
+ * calcular su área.
+ * @author alumnodam
+ *
+ */
+
 public class ProgramaComposicionCono {
 	
 	/**
